@@ -1,0 +1,8 @@
+resolver: lts-13.26
+
+packages:
+  - .
+
+extra-deps:
+  - req-2.0.1@sha256:76fb2a88279695d3c564064c1cb30a9c8d6a9e3bc9b9d1313ccdcdc7de301fbe
+  - retry-0.8.0.1@sha256:149393f74ce7504e171d71046936e58841ccfa0e59a37809824b6d68c04a36e5
